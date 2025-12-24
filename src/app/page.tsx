@@ -23,6 +23,9 @@ const page = () => {
     { href: '/drawer',label: '18.drawer'}, 
     { href: '/dropdown-menu',label: '19.dropdown-menu'},
     { href: '/empty',label: '20.empty'},
+    { href: '/input',label: '21.input'},
+    { href: '/label',label: '22.label'},
+    { href: '/separator',label: '23.separator'},
   ];
 
   return (
